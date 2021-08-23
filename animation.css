@@ -1,0 +1,23 @@
+button{
+ animation-name: bestanimation;
+ animation-duration: 2s;
+ animation-iteration-count: 3;
+opacity: 100%;
+transition: all 3s;
+}
+button:hover{
+    opacity: 50%;
+}
+@keyframes bestanimation {
+    0%{
+        position: relative;
+        top: 0px;
+        left: 0px;
+        transform: rotate(360deg);    
+    }
+    100%{
+        position: relative;
+        top: 200px;
+        left: 500px;
+    }
+}

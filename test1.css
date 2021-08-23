@@ -1,0 +1,61 @@
+p{
+    font-family: Helvetica, sans-serif;
+    font-size: 16px;
+    color: #666666;  
+}
+h1{
+     font-family: Georgia, serif;
+font-size: 36px;
+color: #377534;
+}
+.p1{
+     font-family: Helvetica, sans-serif;
+ font-size: 18px;
+ color: #469a42; 
+}
+h2{
+ font-family:  Helvetica, sans-serif;
+font-size: 26px;
+color: #469a42;
+}
+.p2{
+font-family:  Helvetica, sans-serif;
+font-size: 18px;
+color: #666666;
+}
+ul{
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+color: #124e0f;
+font-size: 18px;
+list-style-type:none;
+margin: 0px;
+padding: 0px;
+}
+.p3{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 16px;
+color: #377534;
+}
+h3{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+font-weight: bold;
+color: #377534;
+text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
